@@ -1,0 +1,7 @@
+.mati a *{
+    color:black !important;
+}
+
+.mati *:hover{
+    color:#007bff !important;
+}
